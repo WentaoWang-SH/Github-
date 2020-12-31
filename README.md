@@ -12,7 +12,7 @@
 	
 	4. git commit -m "smc code"     #提交到仓库
 	
-	5.  git remote add origin https://github.com/WentaoWang-SH/SMC        #将本地仓库关联到github上 
+	5. git remote add origin https://github.com/WentaoWang-SH/SMC        #将本地仓库关联到github上 
 	
 	6. git push -u origin master         #上传代码到github远程仓库 此时需要输入用户名密码
 	Username for 'https://github.com': shutom001@163.com
@@ -51,7 +51,7 @@
 	git config --global user.email 18817392757@163.com
 	
 	
-	6. 将本地文件夹提交大github远程仓库
+	6. 将本地文件夹提交大github远程仓库 (可参见windows下的操作步骤)
 	#新建一个README.md文件，可以在里面编写文档
 	echo"# exmple">>README.md
 	 
